@@ -856,6 +856,11 @@ margin-bottom: 20px;
     text-align: center;
     margin: 12px 0;
   }
+
+  .nav__link--anchor {
+    margin: 0 5px;
+  }
+
 }
 
 @media (max-width: 545px) {
