@@ -725,6 +725,10 @@ footer ul li a {
   margin: 0 20px;
 }
 
+footer a {
+  color: white;
+}
+
 
 @media (max-width: 915px) {
   .personal__logo {
@@ -930,5 +934,5 @@ margin-bottom: 20px;
   .nav__link--anchor-primary {
     padding: 8px 7px;
 }
-    margin: 0 12px;
+
 }
